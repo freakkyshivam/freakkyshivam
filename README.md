@@ -1,13 +1,15 @@
 # 👋 Hi, I'm Shivam Chaudhary!
 
-🎯 **Aspiring Backend Developer** | 💻 Node.js | ⚙️ Express.js | 🧠 JavaScript Enthusiast  
+![Header](https://your-custom-banner-link.com/banner.gif)
+
+🎯 **Aspiring Backend Developer** | 💻 Node.js | ⚙️ Express.js | 🧠 JavaScript Enthusiast  | DSA
 
 ---
 
 ## 🚀 About Me
 - 🌱 Currently learning **Backend Development**
 - 💬 Ask me about **JavaScript, Node.js, Express, MongoDB**
-- 📫 Reach me: [shivam@example.com](mailto:shivam@example.com)
+- 📫 Reach me: [Gmail](mailto:skc722768@gmail.com)
 - ⚡ Fun fact: I love building AI chatbots & cool JS projects!
 
 ---
@@ -22,22 +24,22 @@
 ---
 
 ## 📊 GitHub Stats
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamchaudhary&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamchaudhary&layout=compact&theme=radical)
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=freakkyshivam&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakkyshivam&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shivamchaudhary&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=freakkyshivam&theme=onedark)
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/freakkyshivam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://freakkyshivam.github.io/Portfolio/)
 
 
-![Header](https://your-custom-banner-link.com/banner.gif)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=freakkyshivam&theme=radical)
 
