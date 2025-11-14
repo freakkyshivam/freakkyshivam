@@ -26,9 +26,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Shivam's GitHub Stats]([[https://github-readme-stats.vercel.app/api?username=freakkyshivam&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=freakkyshivam&show_icons=true&count_private=true](https://github-readme-stats.vercel.app/api?username=freakkyshivam&show_icons=true&count_private=true])
+![Shivam's GitHub Stats]((https://github-readme-stats.vercel.app/api?username=freakkyshivam&show_icons=true&count_private=true)
 )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakkyshivam&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakkyshivam&layout=compact
+)
 
 ---
 
