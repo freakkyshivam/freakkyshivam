@@ -10,7 +10,7 @@
 - 🌱 Currently learning **Backend Development**
 - 💬 Ask me about **JavaScript, Node.js, Express, MongoDB**
 - 📫 Reach me: [Gmail](mailto:skc722768@gmail.com)
-- ⚡ Fun fact: I love building AI chatbots & cool JS projects!
+ 
 
 ---
 
@@ -26,7 +26,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=freakkyshivam&show_icons=true&theme=radical)
+![Shivam's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=freakkyshivam&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=freakkyshivam&show_icons=true&count_private=true
+)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakkyshivam&layout=compact&theme=radical)
 
 ---
