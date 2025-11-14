@@ -26,7 +26,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Shivam's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=freakkyshivam&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=freakkyshivam&show_icons=true&count_private=true
+![Shivam's GitHub Stats]([[https://github-readme-stats.vercel.app/api?username=freakkyshivam&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=freakkyshivam&show_icons=true&count_private=true](https://github-readme-stats.vercel.app/api?username=freakkyshivam&show_icons=true&count_private=true])
 )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakkyshivam&layout=compact&theme=radical)
 
@@ -39,7 +39,7 @@
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/freakkyshivam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://freakkyshivam.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)]( https://freakkyshivam.netlify.app/)
 
 
 
