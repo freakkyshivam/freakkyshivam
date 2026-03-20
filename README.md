@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning **Backend Development**
-- 💬 Ask me about **JavaScript, Node.js, Express, MongoDB**
+- 💬 Ask me about **JavaScript, Node.js, Express, postgreSql, MongoDB**
 - 📫 Reach me: [Gmail](mailto:skc722768@gmail.com)
  
 
@@ -40,7 +40,7 @@
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/freakkyshivam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)]( https://freakkyshivam.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)]( https://freakkyshivam.in)
 
 
 
