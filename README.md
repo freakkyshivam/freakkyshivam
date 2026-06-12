@@ -58,7 +58,7 @@ I care about architecture because shortcuts rot. I care about auth because weak 
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,sql,bash" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,sql" alt="Languages" />
 </p>
 
 ### Frontend
@@ -73,7 +73,7 @@ I care about architecture because shortcuts rot. I care about auth because weak 
 
 ### Cloud, DevOps & Tooling
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,vercel,postman" alt="Cloud DevOps Tooling" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,vscode" alt="Cloud DevOps Tooling" />
 </p>
 
 ---
