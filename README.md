@@ -228,15 +228,7 @@ Working on backend-heavy products with a focus on authentication, APIs, automati
 
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=freakkyshivam&theme=dracula&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies" />
-</div>
-
----
+ 
 
 ## Contribution Activity
 
