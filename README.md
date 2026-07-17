@@ -217,7 +217,7 @@ Working on backend-heavy products with a focus on authentication, APIs, automati
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=freakkyshivam)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
