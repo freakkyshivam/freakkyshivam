@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Shivam&Chaudhary&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Node.js%20%7C%20PostgreSQL%20%7C%20Redis%20%7C%20Docker&descAlignY=56&descSize=18)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Shivam&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Node.js%20%7C%20PostgreSQL%20%7C%20Redis%20%7C%20Docker&descAlignY=56&descSize=18)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=860&lines=Building+production-backend+systems+with+clean+architecture;Designing+secure+auth+flows%2C+APIs%2C+and+automation+pipelines;Shipping+full-stack+projects+with+backend-first+thinking" alt="Typing SVG" />
 
