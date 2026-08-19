@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/freakkyshivam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
   </a>
-  <a href="mailto:your@email.com" target="_blank">
+  <a href="mailto:skc722768@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Gmail%20Inbox-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" />
   </a>
   <a href="https://github.com/freakkyshivam" target="_blank">
